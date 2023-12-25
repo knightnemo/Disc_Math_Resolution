@@ -1,0 +1,2 @@
+# Disc_Math_Resolution
+通过归结算法来判断命题的成立与否
